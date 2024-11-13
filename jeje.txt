@@ -1,0 +1,4 @@
+    "username" : "raul",
+    "email" : "raul@gmail.com",
+    "password" : "1234",
+    "confirmpassword" : "1234"
